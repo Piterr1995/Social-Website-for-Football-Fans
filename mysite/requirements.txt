@@ -33,7 +33,7 @@ plyer==1.4.0
 protobuf==3.9.1
 psycopg2==2.8.3
 psycopg2-binary==2.8.4
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyrsistent==0.15.4
 python-dateutil==2.8.0
 python-social-auth==0.3.6
